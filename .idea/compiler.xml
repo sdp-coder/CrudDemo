@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="12_7Bean" />
+        <module name="12_7Crud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="12_7Bean" target="1.7" />
+      <module name="12_7Consumer" target="1.7" />
+      <module name="12_7Crud" target="1.7" />
+      <module name="12_7CRUDProject" target="1.7" />
+      <module name="12_7Provider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
